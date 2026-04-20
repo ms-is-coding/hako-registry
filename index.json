@@ -3,5 +3,10 @@
     "name": "zig",
     "version": "0.16.0",
     "description": "General-purpose programming language and toolchain"
+  },
+  {
+    "name": "llvm",
+    "version": "22.1.3",
+    "description": "LLVM Compiler Infrastructure"
   }
 ]
