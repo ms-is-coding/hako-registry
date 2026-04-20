@@ -8,13 +8,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-22.1.3/LLVM-22.1.3-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "6e776c396895837a168a36d13e0b0e4552680eda58d8dab6aa5fb75e2c3d13ea",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-22.1.3/LLVM-22.1.3-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "4dc01fbb46084b3c3304a51e8412903da3735d5a276bcdd35333bc38bad8a8b6",
           "strip": 1
         }
       ]
@@ -25,13 +25,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-22.1.2/LLVM-22.1.2-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "ff32497b6801267ee427bc69cdaeecfb2d19578af8c2a942e864c45215f9a2ac",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-22.1.2/LLVM-22.1.2-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "cf2e84d965a95954971cafc71d18c0eb38e723c3ac7276286fd5636df4374b3a",
           "strip": 1
         }
       ]
@@ -42,13 +42,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-22.1.1/LLVM-22.1.1-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "efc4d945744f951df00ec72c5b31da5d5a2eaf1d53cc7c9d0644f93f0f9e817d",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-22.1.1/LLVM-22.1.1-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "a807a16a4dd9a288b6ad3d507df4eae47dfdfbccab118170ebd216b85370a065",
           "strip": 1
         }
       ]
@@ -59,13 +59,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-22.1.0/LLVM-22.1.0-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "8d662e425e46c48b45f5f970770b5e37f323607c8c2cbc371593fc9c4ba1e7b3",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-22.1.0/LLVM-22.1.0-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "e3b4205fe45d5561dec9d46465873a79c26b25b028b310515b38c34f668c6aec",
           "strip": 1
         }
       ]
@@ -76,13 +76,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.8/LLVM-21.1.8-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "b3b7f2801d15d50736acea3c73982994d025b01c2f035b91ae3b49d1b575732b",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.8/LLVM-21.1.8-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "65ce0b329514e5643407db2d02a5bd34bf33d159055dafa82825c8385bd01993",
           "strip": 1
         }
       ]
@@ -93,13 +93,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.7/LLVM-21.1.7-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "621ab8424178ffc28db0facc5aefd3fc11f5dea339aac171b36fa0b8d4b368cb",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.7/LLVM-21.1.7-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "aa85ddc8ba95ac5f2febddb51a6891ee0e57ac058c6455395d5a4bfa5650d44b",
           "strip": 1
         }
       ]
@@ -110,13 +110,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.6/LLVM-21.1.6-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "8ac1aadfa96b87b8747f7383d06ed9579f9d5c32a1af7af947b0cfe29d88ac87",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.6/LLVM-21.1.6-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "1d8a9e05007b8b9005c63f90d7646b2b6263451d605cca070418d0a71e669377",
           "strip": 1
         }
       ]
@@ -127,13 +127,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.5/LLVM-21.1.5-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "6279d78feeeb8e839a397f0bca7b1c0594972224d59525496416653d9b9c077f",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.5/LLVM-21.1.5-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "c9a1ee5d1a1698a8eb0abda1c1e44c812378aec32f89cc4fbbb41865237359a9",
           "strip": 1
         }
       ]
@@ -144,13 +144,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.4/LLVM-21.1.4-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "53c8d9a173c39c952ae367974b0b9c1dcfddeb81341c3d0553748e8407abe9f8",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.4/LLVM-21.1.4-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "b1cdf40de4dc53fc090684fb6a160c0c9348242d85d2321441a9873cb116ea18",
           "strip": 1
         }
       ]
@@ -161,13 +161,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.3/LLVM-21.1.3-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "52866dc560a4c00c12fed63a006d629108117e2282fd37875887961dd7b5f6f8",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.3/LLVM-21.1.3-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "563be4f9f9186c909e5de937b2097338132422957c7919a29d8ff524a32213c0",
           "strip": 1
         }
       ]
@@ -178,13 +178,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.2/LLVM-21.1.2-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "38dc1e278b8d688d9f4f1077da1dcda623d9e0dd89ffcf03bc18d3492bbd9cb6",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.2/LLVM-21.1.2-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "b16c36731eabdc3cbe7f265e241efdb9aa6ab7c4be4114763c356da1392aac73",
           "strip": 1
         }
       ]
@@ -195,13 +195,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.1/LLVM-21.1.1-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "fe9886992273e469fbd664851cbee2f125b383664694684923a41af1c71b9632",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.1/LLVM-21.1.1-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "2764bb49ad4dab93226328d6374ca4466799bdc18372c544d8f6ebc1aa0c28a9",
           "strip": 1
         }
       ]
@@ -212,13 +212,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.0/LLVM-21.1.0-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "4a8c4b07646a4a2eb76ccf1d73522c3e13519745b72ef09d631c09b7577b0ed2",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.0/LLVM-21.1.0-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "ffd51d9a583c1f662abc101f3a125d7303b21ad7d4e15773c8ad2c14cf621d5e",
           "strip": 1
         }
       ]
@@ -229,13 +229,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.8/LLVM-20.1.8-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "1ead36b3dfcb774b57be530df42bec70ab2d239fbce9889447c7a29a4ddc1ae6",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.8/LLVM-20.1.8-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "b855cc17d935fdd83da82206b7a7cfc680095efd1e9e8182c4a05e761958bef8",
           "strip": 1
         }
       ]
@@ -246,13 +246,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.7/LLVM-20.1.7-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "8494c98a774051a40bfe1187a2d6442f4bc107598998bbe1673d9bb1572cfd6f",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.7/LLVM-20.1.7-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "832f2802a29457dc758f56e26e98558c6cd0e45fcd07186f540cb6e7f4e59385",
           "strip": 1
         }
       ]
@@ -263,13 +263,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.6/LLVM-20.1.6-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "8ecc9878e3d99c8f1db25e5564d12900b4a1fc947f62b8cd01135fd0b15220e4",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.6/LLVM-20.1.6-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "f7c2851771cf26af3e2196e3be060cdafe7ea2e04db24bbd736aea0d2c95e3e9",
           "strip": 1
         }
       ]
@@ -280,13 +280,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.5/LLVM-20.1.5-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "0a764a8ca521606532ca9ec4e5745c933b16b7d30f4701a47ee851d448fcdb74",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.5/LLVM-20.1.5-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "a6b8679be46bdaa383e0c7f13a473ca8f7a4f87233f2cc0e0a7ab19e1b6265e7",
           "strip": 1
         }
       ]
@@ -297,13 +297,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.4/LLVM-20.1.4-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "113b54c397adb2039fa45e38dc8107b9ec5a0baead3a3bac8ccfbb65b2340caa",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.4/LLVM-20.1.4-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "4de80a332eecb06bf55097fd3280e1c69ed80f222e5bdd556221a6ceee02721a",
           "strip": 1
         }
       ]
@@ -314,13 +314,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.3/LLVM-20.1.3-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "c75103f520626cd2137a7e907998f12fff64136514ade1bb0a259995ae2de80e",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.3/LLVM-20.1.3-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "a9030b70bd8e1d8fe1e48d7b32c8328f2861f00e8474b22105037235a5774bcf",
           "strip": 1
         }
       ]
@@ -331,13 +331,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.2/LLVM-20.1.2-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "3a392f151375eeed4fd50c6b6f7c7203da37b373a57f220ae58ef62b8aade3cc",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.2/LLVM-20.1.2-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "41a6a2892cf66cd7c275753f2d1afe0e33b26c9674eff7d114fb36a52253436a",
           "strip": 1
         }
       ]
@@ -348,13 +348,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.1/LLVM-20.1.1-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "b1f40360adbf31934d5d3d999c5f91f7e52e089ae984d237565cc4c23bbfa283",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.1/LLVM-20.1.1-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "09f5a08ef6c96a7c6c11258b3053ae5ed11a6717ffd9fd01bbebd75d8038a0fc",
           "strip": 1
         }
       ]
@@ -365,13 +365,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.0/LLVM-20.1.0-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "954ac51498519f6ed9540714fb04bc401f70039b296a8160dd1559be380788d7",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.0/LLVM-20.1.0-Linux-ARM64.tar.xz",
-          "sha256": "",
+          "sha256": "9d1bbf3f6d4d011e3b8b4b585f686bc968474917f37d3b82b4a534f456168c67",
           "strip": 1
         }
       ]
@@ -382,13 +382,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.7/LLVM-19.1.7-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "4a5ec53951a584ed36f80240f6fbf8fdd46b4cf6c7ee87cc2d5018dc37caf679",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.7/clang%2Bllvm-19.1.7-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "a73d9326e5d756e3937df6a9f621664d76403b59119f741901106b387e53a6ae",
           "strip": 1
         }
       ]
@@ -399,13 +399,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.6/LLVM-19.1.6-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "d55dcbb309de7ade4e3073ec3ac3fac4d3ff236d54df3c4de04464fe68bec531",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.6/clang%2Bllvm-19.1.6-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "f6fd8cf8bb12f507c4a55609ef6a435b3c59bc658008b712b80ec1cdc1ee9325",
           "strip": 1
         }
       ]
@@ -416,13 +416,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.5/LLVM-19.1.5-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "13e9975b026d431c945927960e5f8c0a47a155a2f600f57e85f4d1482620c65f",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.5/clang%2Bllvm-19.1.5-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "1bdc342b7d03cbcfafb2ffb8659eb0e4d5c6ddef6f56e0cad0e0c09c52577a4f",
           "strip": 1
         }
       ]
@@ -433,13 +433,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.4/LLVM-19.1.4-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "da7e0f571b440e5ef9ae6e061ae6afc1071179e18f86f77cf630dabbed11a5f6",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.4/clang%2Bllvm-19.1.4-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "c42ea92e7a4cfad96b2b0d6c7872c6e9a9960a1d8a56c1847eca45d79cd67533",
           "strip": 1
         }
       ]
@@ -450,13 +450,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.3/LLVM-19.1.3-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "052a5ee117782aab5893dba2cdf2cb97c3d873f7a50ba6b1690594161c75c519",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.3/clang%2Bllvm-19.1.3-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "a730175e58233f20a99ecab0015d8cd0f1af5d92411ca1f9e3e472645d889bcd",
           "strip": 1
         }
       ]
@@ -467,13 +467,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.2/LLVM-19.1.2-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "5b7fe5b2dbbacadd0fee17ac45103c0393bc4b5a9096506a865aa2fbcba976a7",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.2/clang%2Bllvm-19.1.2-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "eb9ab2b24f4b75f8010feed4a43d5a4ebf3c7e1ccff881e1cdf12a122748e7c4",
           "strip": 1
         }
       ]
@@ -484,13 +484,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.1/LLVM-19.1.1-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "8204de000b6a6921f0572e038336601e3225898e9a253c8aaa43b0a5fae8a4ce",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.1/clang%2Bllvm-19.1.1-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "414d2ebef10c5035e9df10a224e81b484dbe17d319373050d0c1b3b1467040d2",
           "strip": 1
         }
       ]
@@ -501,13 +501,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.0/LLVM-19.1.0-Linux-X64.tar.xz",
-          "sha256": "",
+          "sha256": "cee77d641690466a193d9b88c89705de1c02bbad46bde6a3b126793c0a0f2923",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.0/clang%2Bllvm-19.1.0-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "7bb54afd330fe1a1c2d4c593fa1e2dbe2abd9bf34fb3597994ff41e443cf144b",
           "strip": 1
         }
       ]
@@ -518,13 +518,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.8/clang%2Bllvm-18.1.8-x86_64-linux-gnu-ubuntu-18.04.tar.xz",
-          "sha256": "",
+          "sha256": "54ec30358afcc9fb8aa74307db3046f5187f9fb89fb37064cdde906e062ebf36",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.8/clang%2Bllvm-18.1.8-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "dcaa1bebbfbb86953fdfbdc7f938800229f75ad26c5c9375ef242edad737d999",
           "strip": 1
         }
       ]
@@ -535,13 +535,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.7/clang%2Bllvm-18.1.7-x86_64-linux-gnu-ubuntu-18.04.tar.xz",
-          "sha256": "",
+          "sha256": "9aae4d652c438d8c44aaea480e52c7fd9b92f88f1c90673144165c7c8cbf9d28",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.7/clang%2Bllvm-18.1.7-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "f0df4a38d4e205ee9dea23fdbe1b3acb0d3174d1366ef1488f1ea619cd6e6c0e",
           "strip": 1
         }
       ]
@@ -552,7 +552,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.6/clang%2Bllvm-18.1.6-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "bcb3d53d3bd1027bc7f26544dff8cdc5ff74776add6eb994047326b284147a90",
           "strip": 1
         }
       ]
@@ -563,7 +563,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.5/clang%2Bllvm-18.1.5-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "d597fa5f49c6d9f102f042a3ad83e2b5fd1d0597948012a668f902164db9546c",
           "strip": 1
         }
       ]
@@ -574,13 +574,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.4/clang%2Bllvm-18.1.4-x86_64-linux-gnu-ubuntu-18.04.tar.xz",
-          "sha256": "",
+          "sha256": "1607375b4aa2aec490b6db51846a04b265675a87e925bcf5825966401ff9b0b1",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.4/clang%2Bllvm-18.1.4-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "8c2f4d1606d24dc197a590acce39453abe7a302b9b92e762108f9b5a9701b1df",
           "strip": 1
         }
       ]
@@ -591,7 +591,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.3/clang%2Bllvm-18.1.3-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "249418a3b85326ef144349491cbcaf5bf60966d99e9fabbcd1b79edd27d9a722",
           "strip": 1
         }
       ]
@@ -602,7 +602,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.2/clang%2Bllvm-18.1.2-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "aa9d6c6e70cbe2344be1f4b780525a9a4feb70a6e4fa46ea67822f0e7f839c21",
           "strip": 1
         }
       ]
@@ -613,7 +613,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.1/clang%2Bllvm-18.1.1-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "6815ef3c314566605f90cff7922ff3ef5a6eaaf854604e4add6a170e6e98389f",
           "strip": 1
         }
       ]
@@ -624,7 +624,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.0/clang%2Bllvm-18.1.0-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "32faaad5b6e072d763a603f7c51e4ee63e2d82c16e945524a539df84e3f2b058",
           "strip": 1
         }
       ]
@@ -635,13 +635,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.6/clang%2Bllvm-17.0.6-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
-          "sha256": "",
+          "sha256": "884ee67d647d77e58740c1e645649e29ae9e8a6fe87c1376be0f3a30f3cc9ab3",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.6/clang%2Bllvm-17.0.6-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "6dd62762285326f223f40b8e4f2864b5c372de3f7de0731cb7cd55ca5287b75a",
           "strip": 1
         }
       ]
@@ -652,13 +652,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.5/clang%2Bllvm-17.0.5-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
-          "sha256": "",
+          "sha256": "5a3cedecd8e2e8663e84bec2f8e5522b8ea097f4a8b32637386f27ac1ca01818",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.5/clang%2Bllvm-17.0.5-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "ee12126c404d42a0723ff3a4449470b5570fe5ce610be9d9baee88a6d27701d2",
           "strip": 1
         }
       ]
@@ -669,13 +669,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.4/clang%2Bllvm-17.0.4-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
-          "sha256": "",
+          "sha256": "6b45be6c0483b7ee3f63981678093b731fd9f4ea6987b4ceb6efde21890ffca7",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.4/clang%2Bllvm-17.0.4-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "18b326b3e17168fc423726b5059b4d55b6070d49408e51440ad3fca2ebb37779",
           "strip": 1
         }
       ]
@@ -686,7 +686,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.3/clang%2Bllvm-17.0.3-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "289da98e4cbc157153e987ff24ce835717a36cfab03ecd03bf359378ee4ae9d7",
           "strip": 1
         }
       ]
@@ -697,13 +697,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.2/clang%2Bllvm-17.0.2-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
-          "sha256": "",
+          "sha256": "df297df804766f8fb18f10a188af78e55d82bb8881751408c2fa694ca19163a8",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.2/clang%2Bllvm-17.0.2-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "b08480f2a77167556907869065b0e0e30f4d6cb64ecc625d523b61c22ff0200f",
           "strip": 1
         }
       ]
@@ -714,7 +714,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-17.0.1/clang%2Bllvm-17.0.1-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "d2eaca72ce3aab0b343e01b2233303628ff43a43a6107dca1aa8d3039da847f5",
           "strip": 1
         }
       ]
@@ -725,7 +725,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.6/clang%2Bllvm-16.0.6-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "283e904048425f05798a98f1b288ae0d28ce75eb1049e0837f959e911369945b",
           "strip": 1
         }
       ]
@@ -736,7 +736,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.5/clang%2Bllvm-16.0.5-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "c427d4fa5cd21a11d9fea55ae60ad2e7230ad8411f7a0dea867273f2a1b74891",
           "strip": 1
         }
       ]
@@ -747,13 +747,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.4/clang%2Bllvm-16.0.4-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
-          "sha256": "",
+          "sha256": "fd464333bd55b482eb7385f2f4e18248eb43129a3cda4c0920ad9ac3c12bdacf",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.4/clang%2Bllvm-16.0.4-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "2e0b5b20d21ff80dea9f31d3f7636e458028ad0d5ee0bda42608fa8744ea3a12",
           "strip": 1
         }
       ]
@@ -764,13 +764,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.3/clang%2Bllvm-16.0.3-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
-          "sha256": "",
+          "sha256": "638d32fd0032f99bafaab3bae63a406adb771825a02b6b7da119ee7e71af26c6",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.3/clang%2Bllvm-16.0.3-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "315fd821ddb3e4b10c4dfabe7f200d1d17902b6a5ccd5dd665a0cd454bca379f",
           "strip": 1
         }
       ]
@@ -781,13 +781,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.2/clang%2Bllvm-16.0.2-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
-          "sha256": "",
+          "sha256": "9530eccdffedb9761f23cbd915cf95d861b1d95f340ea36ded68bd6312af912e",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.2/clang%2Bllvm-16.0.2-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "de89d138cfb17e2d81fdaca2f9c5e0c042014beea6bcacde7f27db40b69c0bdc",
           "strip": 1
         }
       ]
@@ -798,7 +798,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.1/clang%2Bllvm-16.0.1-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "83e38451772120b016432687c0a3aab391808442b86f54966ef44c73a26280ac",
           "strip": 1
         }
       ]
@@ -809,13 +809,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.0/clang%2Bllvm-16.0.0-x86_64-linux-gnu-ubuntu-18.04.tar.xz",
-          "sha256": "",
+          "sha256": "2b8a69798e8dddeb57a186ecac217a35ea45607cb2b3cf30014431cff4340ad1",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.0/clang%2Bllvm-16.0.0-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "b750ba3120e6153fc5b316092f19b52cf3eb64e19e5f44bd1b962cb54a20cf0a",
           "strip": 1
         }
       ]
@@ -826,13 +826,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.6/clang%2Bllvm-15.0.6-x86_64-linux-gnu-ubuntu-18.04.tar.xz",
-          "sha256": "",
+          "sha256": "38bc7f5563642e73e69ac5626724e206d6d539fbef653541b34cae0ba9c3f036",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.6/clang%2Bllvm-15.0.6-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "8ca4d68cf103da8331ca3f35fe23d940c1b78fb7f0d4763c1c059e352f5d1bec",
           "strip": 1
         }
       ]
@@ -843,7 +843,7 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.5/clang%2Bllvm-15.0.5-x86_64-linux-gnu-ubuntu-18.04.tar.xz",
-          "sha256": "",
+          "sha256": "15018e4f45889450b62367acbdc7628556ceba92bd9f6b0544145334d1311cbc",
           "strip": 1
         }
       ]
@@ -854,7 +854,7 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.4/clang%2Bllvm-15.0.4-x86_64-linux-gnu-rhel-8.4.tar.xz",
-          "sha256": "",
+          "sha256": "2672e88fc9c79ff287a0d0e6dbbaf77fbbea3c12dab39fd733ae9432fbcb7e9e",
           "strip": 1
         }
       ]
@@ -865,7 +865,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.3/clang%2Bllvm-15.0.3-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "fa59fad997025da49b5001d6dc193bb7899e59de6268406b76c4fdbe2b56b7fd",
           "strip": 1
         }
       ]
@@ -876,13 +876,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.2/clang%2Bllvm-15.0.2-x86_64-unknown-linux-gnu-rhel86.tar.xz",
-          "sha256": "",
+          "sha256": "f48f479e91ee7297ed8306c9d4495015691237cd91cc5330d3e1ee057b0548bd",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.2/clang%2Bllvm-15.0.2-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "3d0c2b28b0c06ebb9e0ce75e337680403771b28a4b8f065ce608cf2386f97a73",
           "strip": 1
         }
       ]
@@ -893,7 +893,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.1/clang%2Bllvm-15.0.1-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "201b2f5e537ec88937e0e1b30512453076e73a06ca75edf9939dc0e61b5ccbd1",
           "strip": 1
         }
       ]
@@ -904,13 +904,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.0/clang%2Bllvm-15.0.0-x86_64-linux-gnu-rhel-8.4.tar.xz",
-          "sha256": "",
+          "sha256": "20b17fabc97b93791098e771adf18013c50eae2e45407f8bfa772883b6027d30",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.0/clang%2Bllvm-15.0.0-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "527ed550784681f95ec7a1be8fbf5a24bd03d7da9bf31afb6523996f45670be3",
           "strip": 1
         }
       ]
@@ -921,13 +921,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.6/clang%2Bllvm-14.0.6-x86_64-linux-gnu-rhel-8.4.tar.xz",
-          "sha256": "",
+          "sha256": "7412026be8bb8f6b4c25ef58c7a1f78ed5ea039d94f0fa633a386de9c60a6942",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.6/clang%2Bllvm-14.0.6-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "1a81fda984f5e607584916fdf69cf41e5385b219b983544d2c1a14950d5a65cf",
           "strip": 1
         }
       ]
@@ -938,7 +938,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.5/clang%2Bllvm-14.0.5-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "e8138f24d716ef9714e259ab276e6ef74c8adcf9af0270464a8a01c24a583ea8",
           "strip": 1
         }
       ]
@@ -949,7 +949,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.4/clang%2Bllvm-14.0.4-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "0c960d50c83360d81e698120f131cf004676cbe5ac6db6fbe67a0950f3cde2d1",
           "strip": 1
         }
       ]
@@ -960,7 +960,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.3/clang%2Bllvm-14.0.3-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "36958cf3f1be9e91f33b0ce86afe049c2cf89c320996f963ee232c2405a811ec",
           "strip": 1
         }
       ]
@@ -971,7 +971,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.2/clang%2Bllvm-14.0.2-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "ad6d065a2cf1c67698cc7f368722b1adc3fa2d7c9401446f0046612b6c90edc4",
           "strip": 1
         }
       ]
@@ -982,7 +982,7 @@
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.1/clang%2Bllvm-14.0.1-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "0f1fe0c927ebc2fc9e7d55188b80cd4982e49ae2a667bff1199435fb21159f52",
           "strip": 1
         }
       ]
@@ -993,13 +993,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.0/clang%2Bllvm-14.0.0-x86_64-linux-gnu-ubuntu-18.04.tar.xz",
-          "sha256": "",
+          "sha256": "61582215dafafb7b576ea30cc136be92c877ba1f1c31ddbbd372d6d65622fef5",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.0/clang%2Bllvm-14.0.0-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "1792badcd44066c79148ffeb1746058422cc9d838462be07e3cb19a4b724a1ee",
           "strip": 1
         }
       ]
@@ -1010,13 +1010,13 @@
         {
           "platform": "linux-x86_64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-13.0.1/clang%2Bllvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04.tar.xz",
-          "sha256": "",
+          "sha256": "84a54c69781ad90615d1b0276a83ff87daaeded99fbc64457c350679df7b4ff0",
           "strip": 1
         },
         {
           "platform": "linux-aarch64",
           "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-13.0.1/clang%2Bllvm-13.0.1-aarch64-linux-gnu.tar.xz",
-          "sha256": "",
+          "sha256": "15ff2db12683e69e552b6668f7ca49edaa01ce32cb1cbc8f8ed2e887ab291069",
           "strip": 1
         }
       ]
